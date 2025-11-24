@@ -1,0 +1,28 @@
+.card_prod_conteiner {
+  /* border-radius: 25px; */
+  border: 10px solid red;
+}
+
+.paragrafo_produto_card {
+  color: brown;
+}
+
+.card_rodape_conteiner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card_rodape_conteiner > p {
+  font-size: 0.8em;
+  font-weight: 800;
+}
+
+.card_rodape_conteiner > p > span {
+  font-weight: 300;
+}
+
+@media (width > 300px) {
+  .paragrafo_produto_card {
+    color: blue;
+  }
+}

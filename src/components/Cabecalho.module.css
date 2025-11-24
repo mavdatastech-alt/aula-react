@@ -1,0 +1,14 @@
+.cabecalho_nivel_1 {
+  font-size: 2em !important;
+  font-weight: 900;
+  color: blueviolet;
+  margin: 0;
+  padding: 0;
+}
+.cabecalho_nivel_2 {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: chocolate;
+  margin: 0;
+  padding: 0;
+}

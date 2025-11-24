@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Arroz 5kg",
+    "preco": 24.9,
+    "quantidade": 100
+  },
+  {
+    "nome": "Leite Integral 1L",
+    "preco": 5.99,
+    "quantidade": 80
+  },
+  {
+    "nome": "Camiseta Básica",
+    "preco": 29.9,
+    "quantidade": 45
+  },
+  {
+    "nome": "Tênis Esportivo",
+    "preco": 199.99,
+    "quantidade": 20
+  },
+  {
+    "nome": "Livro JavaScript",
+    "preco": 89.9,
+    "quantidade": 50
+  }
+]
