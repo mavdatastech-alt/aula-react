@@ -1,4 +1,5 @@
 function CardCarregando(props) {
+  const key = props.key;
   const mensagem = props.mensagem ?? "";
   const cor = props.cor ?? "#8ecae6";
 
